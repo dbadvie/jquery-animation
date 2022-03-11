@@ -445,12 +445,3 @@ Sets the perspective.
 ###### *perspectiveOrigin: `String` (default: `"50% 50%"`)*
 Sets the perspective origin.
 
-## Developer Documentation
-Coming soon.
-
-## License
-The project is released under the [MIT license](http://www.opensource.org/licenses/MIT).
-
-## Contact
-The project's website is located at https://github.com/emn178/jquery-animations  
-Author: emn178@gmail.com
